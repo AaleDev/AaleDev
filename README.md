@@ -21,14 +21,11 @@ I don’t just stick to healthcare; I love the challenge of making *any* system 
 ### 🎻 Beyond the Lab & Terminal
 Life isn’t just about code and clinicals! When I need to recharge:
 - You’ll find me hitting the road for **long-distance runs** or doing **calisthenics**.
-- I’m a huge fan of the **violin**-I spend my free time figuring out covers for the latest viral TikTok hits.
+- I’m a huge fan of the **violin**—I spend my free time figuring out covers for the latest viral TikTok hits.
 
 ---
 
 ### Let's Connect!
-I'm always open to discussing Nursing Informatics, Python automation, or even just sharing a great violin playlist.
-
-📧 **Get in touch:** [aale.devs@gmail.com](mailto:aale.devs@gmail.com)
 I'm always open to discussing Nursing Informatics, Python automation, or even just sharing a great violin playlist.
 
 📧 **Get in touch:** [aale.devs@gmail.com](mailto:aale.devs@gmail.com)
